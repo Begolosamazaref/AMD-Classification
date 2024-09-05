@@ -1,0 +1,16 @@
+1) Download Anaconda from : 
+	https://www.anaconda.com/download
+
+2) open terminal from directory that contains "capstone.yml" file
+
+3) Write this command : 
+	conda env create -f capstone.yml
+
+4) Check the existance of the environment by : 
+	conda env list
+
+5) Activate your environment : 
+	conda activate capstone
+
+6) Open notebook : 
+	jupyter notebook .
