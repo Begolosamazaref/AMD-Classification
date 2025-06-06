@@ -29,16 +29,5 @@ This directory contains the backend implementation for Age-related Macular Degen
   - Model loading and inference
   - Classification into 4 AMD categories
 
-## Dependencies
-- TensorFlow 2.x
-- Keras
-- OpenCV
-- NumPy
-- Pandas
-- Scikit-image
-- TensorFlow Probability
-- Matplotlib
-- Seaborn
-
 ## Model Performance
 The hybrid architecture achieves 97% accuracy in classifying AMD stages, outperforming traditional CNN approaches through the combination of scale-adaptive features and transfer learning.
