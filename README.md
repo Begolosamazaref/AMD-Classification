@@ -39,19 +39,7 @@ This directory contains the backend implementation for Age-related Macular Degen
 - TensorFlow Probability
 - Matplotlib
 - Seaborn
-
-## Environment Setup
-1. Install Anaconda from https://www.anaconda.com/download
-2. Create environment using the provided YAML file:
-   ```
-   conda env create -f Requirments_capstone.yml
-   ```
-3. Activate the environment:
-   ```
-   conda activate capstone
-   ```
-4. Launch Jupyter Notebook:
-   ```
+  
    jupyter notebook
    ```
 
