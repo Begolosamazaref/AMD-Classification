@@ -39,9 +39,6 @@ This directory contains the backend implementation for Age-related Macular Degen
 - TensorFlow Probability
 - Matplotlib
 - Seaborn
-  
-   jupyter notebook
-   ```
 
 ## Model Performance
 The hybrid architecture achieves 97% accuracy in classifying AMD stages, outperforming traditional CNN approaches through the combination of scale-adaptive features and transfer learning.
